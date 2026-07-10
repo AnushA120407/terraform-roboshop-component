@@ -18,6 +18,6 @@ variable "domain_name" {
     default = "daws-90.shop"
 }
 
-# variable "rule_priority" {
-#     #type = string
-# }
+variable "rule_priority" {
+    #type = string
+}
